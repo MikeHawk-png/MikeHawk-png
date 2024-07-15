@@ -1,0 +1,2 @@
+- Hey guys, I'm new to coding and just wanted make a github account because I heard thats the way to go for software engineers.
+- I'm all ears for any advice and tips for navigating through programming and github itself.
